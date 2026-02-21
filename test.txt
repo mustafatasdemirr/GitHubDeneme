@@ -1,2 +1,3 @@
 test test
 ikinci satir yazildi user name and mail changed
+gmail yaziminda hata
